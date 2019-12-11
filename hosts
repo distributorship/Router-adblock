@@ -251,14 +251,14 @@
 127.0.0.1 wx.houyi.baofeng.net
 127.0.0.1 xs.houyi.baofeng.net
 
-#pkg=ad.renren.com;（人人影视）Renren
+#Renren
 127.0.0.1 ebp.renren.com
 127.0.0.1 bolt.jebe.renren.com
 127.0.0.1 static.jebe.renren.com
 127.0.0.1 xray.jebe.renren.com
 127.0.0.1 pat.farvd.com
 
-#pkg=ad.dopool.com;（手机电视）Dopool
+#Dopool
 127.0.0.1 ad-cache.dopool.com
 127.0.0.1 analytics3.dopool.com
 127.0.0.1 adapi.starschina.com
@@ -268,7 +268,7 @@
 127.0.0.1 ssp.tadseeker.com
 127.0.0.1 api.adv.ott.cibntv.net
 
-#pkg=ad.molitv.cn;（魔力视频）Molitv
+#Molitv
 127.0.0.1 ad.molitv.cn
 127.0.0.1 vyk.admaster.com.cn
 127.0.0.1 ems.cp12.wasu.tv
@@ -281,10 +281,10 @@
 127.0.0.1 topapi.cp12.wasu.tv
 127.0.0.1 countatm.cp12.wasu.tv
 
-#pkg=ad.cmvideo.cn;（咪咕视频）Cmvideo
+#Cmvideo
 127.0.0.1 ggx.cmvideo.cn
 
-#pkg=ad.adwars.com;大圣净化规则
+#Others
 127.0.0.1 config.adview.cn
 127.0.0.1 p2sdmkj6t.bkt.clouddn.com
 127.0.0.1 log.umsns.com
@@ -422,7 +422,7 @@
 127.0.0.1 fbapi.guguread.com
 127.0.0.1 jrad.jd.com
 
-#pkg=googleanalysis.mobi;谷歌广告服务
+#Google
 127.0.0.1 google-analytics.com
 127.0.0.1 googlesyndication.com
 127.0.0.1 pagead.googlesyndication.com
@@ -672,7 +672,7 @@
 127.0.0.1 px.cdn.creative.medialytics.com
 127.0.0.1 t.medialytics.com
 
-#pkg=baidu.com;百度广告服务
+#Baidu
 127.0.0.1 afd.baidu.com
 127.0.0.1 als.baidu.com
 127.0.0.1 api.share.baidu.com
@@ -719,7 +719,7 @@
 127.0.0.1 wisepush.video.baidu.com
 127.0.0.1 hmma.baidu.com
 
-#pkg=qq.com;腾讯广告服务
+#QQ
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 adping.qq.com
 127.0.0.1 adpm.app.qq.com
@@ -769,7 +769,7 @@
 127.0.0.1 otheve.beacon.qq.com
 127.0.0.1 log.tbs.qq.com
 
-#pkg=alibaba.com;阿里广告服务
+#Ali
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 file.ipinyou.com.cn
@@ -809,7 +809,7 @@
 127.0.0.1 amdc.m.taobao.com
 127.0.0.1 amdcopen.m.taobao.com
 
-#pkg=xxx.ad.doubleclick.net;广告联盟
+#Doubleclick
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
